@@ -10,6 +10,8 @@
       <li>GIt이란?</li>
       <li>버전</li>
       <li>버전2</li>
+
+      <li>충돌2</li>
     </ul>
   </body>
 </html>
