@@ -1,1 +1,1 @@
-This is a class for Git
+This is a class for Git.^^
