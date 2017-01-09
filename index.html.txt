@@ -8,7 +8,7 @@
     <header>
     <ul>
       <li>GIt이란?</li>
-      <li></li>
+      <li>버전</li>
     </ul>
   </body>
 </html>
