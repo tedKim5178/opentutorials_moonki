@@ -1,21 +1,15 @@
 <html>
-<<<<<<< HEAD
-=======
   <head>
     <title>GIT 수업</title>
   </head>
->>>>>>> experiment
   <body>	
     <header>
       <h1>Git</h1>
     <header>
-<<<<<<< HEAD
     <ul>
       <li>GIt이란?</li>
       <li>버전</li>
       <li>버전2</li>
     </ul>
-=======
->>>>>>> experiment
   </body>
 </html>
